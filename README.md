@@ -1,4 +1,4 @@
-# Text to single number
+# Number ME
 
 Alfred workflow to convert any string into a single number using the dial pad letter representation.
 
